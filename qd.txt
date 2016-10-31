@@ -1,0 +1,725 @@
+I am a 27 year old Autistic girl with disabilities, I require daily help to get by. In my teens I stumbled by a small list from a man named Bill Wall. I Matty Angel took this list and in my early teens expanded on it as much as I could. Going so far as talking to certain people involved by email. Creating a Timeline of Early Hacking. 
+
+I called Myself a Net Angel, a term given to me by one of the hackers I spoke to mentioned in this list, I wish to give to all of you my life's work. I share this hoping that perhaps one day others can add to it beyond what I was able to do.
+
+1961.01.02      Caltech hackers (Fiendish Fourteen) hacked the stunt cards at the Rose Bowl (U of Wash vs Minnesota) 
+                to say CALTECH instead of WASHINGTON and show a beaver instead of a husky
+1969.10.29	The Internet is born as the first ARPANET link was established on October 29, 1969, between the IMP at UCLA and the IMP at SRI. By December, the entire 4-node network was connected.
+1971.00.00      John Draper (Cap'n Crunch) uses whistle (blue box) to access Ma Bell
+1971.00.00	First e-mail program written by Ray Tomlinson
+1972.05.00      John Draper arrested for phone fraud
+1978.05.01      In May, the first known spam email was sent, to "several hundred" recipient
+1979.00.00	Mitnick broke into his first computer network in 1979, when a friend gave him the phone number for the Ark, 
+	the computer system at Digital Equipment Corporation (DEC) used for developing their RSTS/E operating system software.
+1980.10.00	Arpanet comes to a crashing halt thanks to the accidental distribution of a virus.
+
+1981.00.00      Kevin Mitnick broke into the records of LA Unified School District, Monroe HS
+1981.00.00      Captain Zap (Ian Murphy) breaks into AT&T and changed the internal clocks; cracked White House switchboard
+                1st person convicted of a computer crime; inspired the movie "Sneakers"
+1981.05.30      Mitnick gets into Pac Bell's COSMOS phone center; takes passwords
+1982.00.00      Chaos Computer Club founded
+1982.00.00      Mitnick (Condor) cracks Pacific Telephone system and TRW; destroys data
+1982.00.00      414 Gang raided; 6 teenagers arrested for breaking into Los Alamos National Lab and cancer center
+1982.06.00	The first PC LAN is demonstrated at the National Computer Conference by Drew Major, Kyle Powell, and Dale Neibaur. Their software would eventually become Novell's Netware
+1982.11.20      MIT hacked the Harvard-Yale football game with a black ball that had MIT written on it
+1983.00.00      Mitnick arrested for gaining illegal access to the ARPAnet & Pentagon
+1983.00.00	The Internet becomes reality when the ARPANET is split into Military and Civilian sections.
+1983.00.00	The number of hosts breaks 500.
+1983.01.01	The entire ARPANET switches from NCP to IP. The transition is said to have went smoothly, although buttons were distributed saying 'I survived the TCP/IP transition.' Jon Postel documented the plan in RFC801, Dan Lynch of USC ISI handled much of the logistics (and went on to start Interop in 1988), and UCLA student David Smallberg documented the transition in 15 RFCs in the range of RFC 842 - RFC 876.
+1983.06.23	Jon Postel and Paul Mockapetris of the University of Southern California run the first successful test of their automated domain name system, which allowed users to use human-readable names for machines instead of needing to use the machine's physical address.
+1983.11.00      Fred Cohen creates the first virus at U of Southern California (Vax virus called VD); coined "computer virus"
+1984.00.00      Kevin Poulsen (Dark Dante) arrested for breaking into the ARPAnet 
+1984.00.00      2600 hacker magazine begins regular publication by Emmanuel Goldstein (Eric Corley)
+1984.00.00	William Gibson coins the term 'cyberspace' in the novel 'Neuromancer'.
+
+1985.00.00      First issue of Phrack magazine
+1986.00.00      Chaos Computer Club cracks German government computer that had info about Chernobyl
+1986.01.00      Pakistani Brain virus released; oldest malicious virus; affected the boot sector
+1986.08.00      Dr Cliff Stoll tracks hackers (Chaos Computer Club) using Lawrence Berkeley Labs computers
+1986.09.16      hackers break into Stanford Unix computers
+1986.00.00      Congress enacts the Federal Computer Fraud and Abuse Act;  illegal to access unauthorized federal computers
+1987.07.05      hackers got secret access codes from Sprint
+1987.09.18      hacker accesses AT&T computers, stealing $1 million worth of s/w
+1987.09.28      hackers from Brooklyn penetrate MILNET
+1987.10.15      Jerusalem memory resident virus; 1st file-infecting virus
+1987.11.15      Lehigh virus; infected the command.com
+1987.11.23      Chaos Computer Club hacks NASA's SPAN network (VMS 4.4)
+1987.12.25      Christmas virus; 1st WAN virus; draws a Christmas tree on the screen while looking for network users
+1987.12.00      Mitnick sentenced for stealing s/w from SCO
+1988.06.15      Mac/Scores virus infected Macintosh 6.0.4
+1988.09.00      "Prophet" cracks BellSouth AIMSX computer network 
+1988.11.02      Internet worm sent out by Robert T. Morris; overflowed fingerd buffer; 6,000 computers (Sun 3) affected
+                1st Internet worm; crashed 6,000 computers
+1988.11.23      hacker cracks USAF Sperry 1160 computer in San Antonio
+1988.12.16      Mitnick cracks MCI DEC network, steals VMS source code and XSafe
+1989.00.00      Avenger written by Dark Avenger overwrites data onto a system's hard drive
+1989.00.00      WDEF Mac virus corrupts hard drive and desktop files
+1989.06.21      hacker cracks USAF satellite-positioning satellite
+1989.07.22      Fry Guy cracks into MacDonald's mainframe; also stole credit cards
+1989.10.16      WANK (Worms Against Nuclear Killers) worm attacked SPAN (NASA DECnet) VAX/VMS systems
+1989.12.15      30 viruses discovered
+1990.00.00      Kevin Poulson (Dark Dante) breaks into Pac Bell to be the 102nd caller on LA radio station; wins Porche
+1990.00.00      Legion of Doom (LOD) and Masters of Deception are rival hacker groups
+1990.00.00      Lamprecht (Minor Threat) cracks into warez site; write ToneLoc
+1990.00.00      Frank Darden, Adam Grant, Bob Riggs, all of LOD arrested for cracking into BellSouth
+1990.03.07      Denver hacker cracks NASA computer at Huntsville and Greenbelt
+1990.03.21      hacker cracks Cliff Stoll's computer and adds message
+1990.04.00      hackers from Netherlands penetrated DoD sites
+1990.10.15      hackers break into British clearing banks
+1991.00.00      Michelangelo virus; goes off on March 6
+1991.01.00      Lamprecht (Minor Threat) hacks into Southwestern Bell; wrote ToneLoc
+1991.03.00      hacker penetrates NASA, NIH, Bureau of Land Mgt, BBN
+1991.04.21      Dutch hackers from Eindhoven break into US military computers
+1991.06.21      Kevin Poulsen arrested for breaking into Pacific Bell phones
+1991.07.00      Justin Petersen (Agent Steal) arrested for hacking into a bank's computer and transferring funds
+1991.09.00      Justin Petersen released from prison to help FBI track crackers
+1991.12.31      1,000 viruses exist in the wild
+1992.00.00      Dallas computer maker discovers planted network sniffer on computer fax machine
+1992.00.00      hackers get root at Eindhoven U of Technology in the Netherlands
+1992.00.00      Morty Rosenfeld convicted after hacking into TRW, stealing 176 credit card reports and numbers
+1992.02.00      Lamprecht (Minor Threat) steals circuit boards
+1992.03.06      Michelangelo virus
+1992.07.00      Lamprecht is caught attempting to sell stolen microprocessors
+1992.11.00      Mitnick cracks into California Dept of Motor Vehicles
+1992.12.00      hacker arrested for penetrating NASA, NIH, BBN, etc
+1993.00.00      Masters of Deception (MOD) phone phreakers busted via wiretaps
+1993.00.00      food scientist gained access to General Mills mainframe computers
+1993.08.00      Justin Petersen (Agent Steal) arrested for computer fraud; broke into financial services company
+1993.10.28      Randal Schwartz uses Crack at Intel to crack passwords
+1994.00.00      Mark Abene (Phiber Optik) jailed for phone tampering
+1994.02.00      hacker installs network sniffer and grabbed 100,000 names and passwords
+1994.02.00      Texas Racing Commission computer hacked into
+1994.02.01      hacker spoofed a Dartmouth professor using email to cancel tests
+1994.03.23      DataStream Cowboy (Richard Pryce, age 16) broke into Rome Lab, Griffiss AFB from UK; used sniffer
+1994.06.13      Citibank hacked by Vladimir Levin; $12 million in illegal transfers
+1994.07.14      French student Damien Doligez cracks 40-bit RC4 encryption
+1994.07.21      hackers crack into the Pentagon, altering and erasing records
+1994.08.00      Justin Petersen electronically steals $150k from Heller Financial
+1994.09.00      Netcom's credit card database was on-line an accessible to the unauthorized
+1994.10.00      Michael Smyth, a regional manager at Pillsbury, fired due to intercepted email
+1994.10.12      computer engineer cracks Marks & Spencer security file containing PIN numbers
+1994.11.01      hacker cracks FBI's conference-calling system; made $250,000 in calls
+1994.12.00      US Naval Academy computer system hacked; sniffer programs installed
+1994.12.00      authors were targets of electronic mail bomb
+1994.12.00      CrackBuster issued cancels for every message in alt.2600; flooded groups
+1994.12.25      Mitnick cracks into Tsutomu Shimomura's security computers; stole s/w tools
+1995.01.00      Chris Lamprecht (Minor Threat) incarcerated for hacking; banned from Internet
+1995.01.27      Mitnick cracks into the Well; puts Shimomura's files there and Netcom credit card numbers
+1995.02.15      Mitnick captured; broke into NORAD, PacBell, CA DMV, etc; had 20,000 credit card numbers
+1995.04.00      Journalist David Pogue's AOL account deleted by hackers
+1995.04.05      SATAN security tool released to the Internet
+1995.05.05      Chris Lamprecht (Minor Threat) becomes 1st person banned from Internet
+1995.06.02      hackers using Vanderbilt computers hack Air Force site - caught
+1995.07.00      crackers tapped into Navy computer system and gained access to French and Allied data
+1995.07.00      Julio Ardita of Argentina cracked into US military computers, Harvard, NASA
+1995.07.25      Randal L Schwartz convicted of hacking under Oregon's Computer Crime Law
+1995.07.28      hacker from Calgary freenet uses sendmail attack on gov sites
+1995.08.04      hacker cracked NY Times Internet service, bringing it down
+1995.08.15      several hackers crack Netscape 40-bit SSL; Damien Doligez used 120 computers
+1995.09.11      Golle Cushing (Alpha Bits) arrested for selling credit card and cell phone info
+1995.09.16      Berkeley students cracked Tower Records/Video computers; $20,000 charged
+1995.09.17      Hackers discover weakness in Netscape random number generator; SSL cracked
+1995.10.23      1st court-ordered wiretap on a computer network; at Harvard
+1995.11.00      buffer overflow in Netscape Navigator host name made it vulnerable
+1995.12.20      NASA Ames Research Center home page hacked
+1995.12.28      Julio Ardita arrested in Argentina for hacking into Harvard
+1996.00.00      Concept virus is 1st macro to affect Macs and PCs
+1996.01.01      1st court authorized wiretap of an ISP; cell-fraud thru Compuserve
+1996.01.15      Swedish computer hacker hacks into 911 phone system in FL
+1996.01.22      Chaos taps cleartext transmission of banking information
+1996.01.25      Russian pleads guilty of participating in Citibank wire fraud
+1996.01.29      Digital Planet's web site for MGM/UA's "Hackers" Site hacked
+1996.02.15      Hackers altered UK talking bus stops for use to the blind
+1996.02.27      BerkshireNet in MA hacked; data erased and system shut down
+1996.03.05      whitehouse.gov flooded with forged email; denial of service
+1996.03.06      Boston ISPs hacked by U4ea; deleted Boston Globe web pages
+1996.03.17      Telia, Sweden's biggest ISP, home page hacked
+1996.04.05      N00gz indicted for computer fraud; accessed Bell, Sprint, SRI
+1996.04.19      NYPD voice-mail system hacked
+1996.04.27      Cambridge U hacked; confidential files broken into
+1996.05.15      Datastream Cowboy from UK arrested for breaking into Rome Labs
+1996.06.15      Two UK hackers charged with intruding into Lockheed computers
+1996.06.20      14-year old arrested for using fraudulent credit card numbers
+1996.06.25      hackers penetrate the public library network of a state
+1996.07.05      1st known Excel virus, Laroux
+1996.07.09      Ontario group gets into computers at a base in VA
+1996.07.10      HS students crack a drink manufacturer's computer voice-mail system
+1996.07.31      Tim Lloyd plants s/w time bomb at Omega Engineering in NJ; 1st federal computer sabotage case
+1996.08.00      Fort Bragg soldier compromised military computer system; distributed passwords
+1996.08.04      US hackers crack computers of the European parliament and commission
+1996.08.16      Department of Justice home page hacked at www.usdoj.gov
+1996.08.25      American Psychoanalytic Association hacked
+1996.08.29      Nation of Islam web page hacked
+1996.08.30      British Conservative Party webpage hacked
+1996.09.00      Helsingius closes penet.fi anonymous remailer; Finnish police wants Scientology user
+1996.09.06      hackers shut down PANIX, New York's Public Access Networks; SYN attack
+1996.09.17      computer files with names of 4,000 AIDS patients taken in Florida
+1996.09.18      CIA home page (www.odci.gov/cia) hacked by 5 Swedish hackers
+1996.09.18      Internet Chess Club hit by hacker attack
+1996.09.19      hacker cracks Palisades, NJ school system
+1996.09.20      cancelbot attacks Usenet; 25,000 messages wiped out
+1996.09.25      Kevin Mitnick indicted for damaging computers at USC, stealing s/w
+1996.10.05      Wazzu virus released
+1996.10.15      disgruntled employee wipes out all computer files at Digital Technologies Group
+1996.10.22      hackers crack Czech banks; steal $2 million
+1996.10.23      Fort Bragg, NC paratrooper hacked U.S. Army systems and gave passwords to China
+1996.10.25      Florida Supreme Court home page hacked
+1996.11.05      hackers attack anti-military site (www.insigniausa.com); erased files
+1996.11.08      NY Times web site hit by SYN-flood attack; DoS
+1996.11.10      Latin Summer Meeting home page hacked; porno and satire added
+1996.11.12      Kriegsman furs web page hacked by animal rights activist; used phf hack
+1996.11.17      hackers removed songs from computers at U2's Dublin studio
+1996.11.21      Danish Research group get into computers at TX base
+1996.11.22      NY city workers falsified computer records in largest tax fraud in NY
+1996.11.26      Web site that provided news about Belarus leader was destroyed
+1996.11.27      Nethosting and 1500 client home pages hacked
+1996.11.29      Disgruntled computer technician brings down Reuters trading net in Hong Kong
+1996.12.06      England's Labour Party web site hacked
+1996.12.14      hackers attack WebCom, knocking out 3,000 web sites; used SYN-flood
+1996.12.16      hackers crack Yale School of Medicine web page with the phf hack
+1996.12.16      NASA home page hacked (Goddard); hack has both frames and JavaScript
+1996.12.20      6 Danish hackers sentenced for attacking Pentagon computers
+1996.12.23      Zhangyi Liu arrested in Dayton for cracking into WPAFB computers; had passwords
+1996.12.29      Air Force home page hacked at DTIC; DefenseLINK shut down
+1996.12.30      NASA home page hacked again by StOrM
+1997.01.06      Croatians intrude into computers at Anderson AFB, Guam
+1997.01.08      hacker crashed California state agency computer - Legal Employment Network
+1997.01.13      Crack dot Com hacked; Doom, Quake, Golgotha source code downloaded
+1997.01.15      hacker sentenced to prison for reprogramming Taco Bell computers
+1997.01.17      Government of Victoria, Australia home page hacked
+1997.01.29      phf hack from Belgium to TX base
+1997.02.03      hackers spoof Eastern Avionics web page to grab credit card numbers
+1997.02.05      German Chaos group uses ActiveX and Quicken to withdraw money
+1997.02.07      Planned Parenthood stops use of plannedparenthood.com domain name
+1997.02.10      Indonesia's Dept of Foreign Affairs homepage hacked
+1997.02.15      AOL Court TV site with news on OJ Simpson trial hacked
+1997.03.03      Loran International hit by a denial of service attack
+1997.03.05      NASA homepage hacked
+1997.03.09      NCAA WWW site hacked; pages changed by 14-year old
+1997.03.12      IP floods of SMTP causes DoS at base in VA
+1997.03.16      The Well hit by hackers.  Passwords stolen, files deleted, trojans planted
+1997.03.19      Spammer Cyber Promotions suffers hack attack
+1997.04.00      internal hacker crashed Forbes Inc computer system; used "time bomb" and had passwords
+1997.04.01      Malaysia's national telecommunications company home page hacked
+1997.04.05      NASA web site hacked
+1997.04.15      San Antonio's Express News web site server system hacked
+1997.04.17      Cyber Promotions broken into, web page altered, password file stolen
+1997.04.21      hacker provokes AOL to shut down Klan site 
+1997.04.26      Amnesty International homepage hacked
+1997.04.27      British Conservative Party got hacked
+1997.05.15      hacker floods NASA communications to Atlantis Shuttle/Mir mission; delays transmission
+1997.05.23      Carlos Salgado grabs 100,000 credit card numbers from San Diego; used a sniffer
+1997.05.27      The Lost World Jurassic Park homepage hacked
+1997.05.29      hacker hit LAPD
+1997.06.00      Netcom voice-mail hacked by "Mr Nobody"
+1997.06.03      Delaware law enforcement officers get teenager cracking NASA
+1997.06.11      USDA site hacked
+1997.06.16      pro-spam hacker reported
+1997.06.18      hackers in CO crack RSA's 56-bit DES encryption
+1997.06.20      hackers caused denial of service to Microsoft's NT IIS web server
+1997.06.25      Geocities frontpage got hacked
+1997.06.30      hackers cause DoS on Microsoft NT server with header packets
+1997.07.11      ESPN and nba.com (starwave) shut down after hacker emails shoppers credit info
+1997.07.14      Danish computer guy finds hole in Netscape; asks for big reward money
+1997.07.15      Canadian Security Intelligence Service got hacked
+1997.07.18      hackers attack Swedish Crack-a-Mac site
+1997.07.18      hackers attack MacInTouch - SYN flood
+1997.08.01      Long Island group added a Trojan horse to hijack users' modem
+1997.08.08      George Mason Univ students hacked their way into the Univ computers
+1997.08.10      Cyper Promotions servers hacked
+1997.08.16      Experian (TRW credit bureau) Internet allowed wrong credit reports
+1997.08.18      Crack a Mac front page got hacked at hacke.infinit.se
+1997.09.01      Altavista homepage got hacked (altavista.com)
+1997.09.15      hackers hit coca-cola web site
+1997.09.24      lince.com NT server got hakced
+1997.09.25      Florida State School of Criminalogy NT server got hacked
+1997.09.26      sterlingcorp.com NT server got hacked
+1997.09.26      US Geological Survey NT server got hacked
+1997.09.27      methodisthealth.com NT server got hacked
+1997.09.30      ValueJet homepage got hacked
+1997.10.01      hacker spoof SANS Security Digest newsletter; hacks into ClarkNet ISP
+1997.10.05      hackers get into www.pentagon-ai.army.mil home page
+1997.10.06      hacker breaks into Japan's Nippon Telegraph and Telephone (NTT)
+1997.10.14      Yale e-mail account servers hacked; sniffer used
+1997.10.19      RSA's RC5 56-bit encryption key cracked by Bovine effort
+1997.10.31      Eugene Kashpureff arrested; redirected the NSI web page to his Alternic
+1997.11.10	dragonserve.com hacked in Hong Kong	
+1997.11.11	DIU homepage hacked	Claire Danes	
+1997.11.14	Spice Girls website hacked	CodeZero	
+1997.11.15	China's Agricultural Univeristy hacked; condemned nuke tests	
+1997.11.21	Springfield College hacked	Mr 9X (GM 288)	
+1997.11.23	SyMark Software hacked	properstuff	
+1997.11.28	Local 2609 hacked	Magica de Bin	
+1997.12.01	Secure Network Systems hacked	Magica de Bin	
+1997.12.02	CA Dept of Fish and Game hacked	
+1997.12.04	e-mail bomb threat sent to Goodyear Tire store in WI	Newman, Chad	
+1997.12.05	Fastcomm Australasia hacked	Magica de Oct	
+1997.12.05	tourne.com hacked	Claire Danes	
+1997.12.05	University of Technology, Sydney physics server hacked	Magica	
+1997.12.06	five commercial sites hacked	KAOS 97	
+1997.12.07	British Field Sports Society hacked	Atrocity	
+1997.12.08	www.yahoo.com hacked	pantz; h4gis	
+1997.12.09	Plumas Sierra, CA ISP hacked	404	
+1997.12.10	John Reilly signs hacked	CyberToast	
+1997.12.10	OR Dept of Forestry website hacked	CyberToast	
+1997.12.10	OneTouch, Inc hacked	Claire Danes	
+1997.12.11	FOX network hacked; page pointed to NBC	
+1997.12.11	NetAdv hacked	The Bookie	
+1997.12.11	HQ USAF homepage hacked; files renamed	
+1997.12.13	www.centerfold-aa.org hacked	CyberToast	
+1997.12.13	Stanford homepage hacked	
+1997.12.13	35 sites hacked by the Legions of the Underground	L.O.U.	
+1997.12.13	several com sites hacked	CyberToast	
+1997.12.14	at least 7 com sites hacked	newport	
+1997.12.14	Sarah Lawrence College and Diversified Data Systems hacked	Claire Danes	
+1997.12.15	money shifted from 208 German bank accounts; security codes changed	
+1997.12.18	NetTime in Sweden hacked	
+1997.12.21	Progressive Woman website hacked	properstuff	
+1997.12.21	Netstar in UK hacked	KAOS 97	
+1997.12.21	Acura car dealership web site hacked	properstuff	
+1997.12.21	Sierra On-Line games hacked	
+1997.12.22	Moody AFB homepage hacked	
+1997.12.22	ATEC software and www.ingmar.com hacked	KAOS 97	
+1997.12.23	www.mpm.it homepage hacked	
+1997.12.25	www.lancasterhome.com hacked	Claire Danes	
+1997.12.25	Rand J Trading homepage hacked	StarCracker	
+1997.12.25	Net 4 Christ hacked	newport	
+1997.12.26	U of Montreal Biomedical homepage hacked	
+1997.12.27	excelsior.arc.nasa.gov hacked	Claire Danes	
+1997.12.29	several TV and radio websites hacked	L.O.U.	
+1997.12.29	Taiwan web site hacked; bad ws_ftp files and password files	
+1997.12.30	First National Bank, Brookings, SD web site hacked	
+1997.12.30	www.k9breeders.com web site hacked	
+1997.12.31	Craig Enterprises hacked	FTH	
+1997.12.31	at least 18 .com and .org sites hacked	inhale	
+1997.12.31	18 com and net sites hacked	newport	
+1997.12.31	Datatech Consulting, Sweden hacked	414	
+1997.12.31	China's Agricultural Univeristy hacked; FreeTibet Now	
+1998.02.19	Virgina schools hacked (Rockbridge)	
+1998.01.01	command to check passwords; went worldwide	Abene, mark	
+1998.01.01	Quake web site hacked	porno	
+1998.01.02	Janet Jackson and Rolling Stones web site hacked	CodeZero	
+1998.01.02	BMW web site hacked	
+1998.01.03	Rapid City, SD ISP hacked	
+1998.01.03	www.hartnet.org hacked	
+1998.01.03	Association of Optometrists web site hacked	OG (Older Generation)	
+1998.01.03	Marin, CA school hacked	OptikLenz	
+1998.01.03	U of Costa Rica homepage hacked	TikoZ	
+1998.01.03	Bolling AFB and Davis-Monthan AFB homepage hacked	CodeZero	
+1998.01.04	Andorra NIC hacked	
+1998.01.04	Taiwan web site hacked; bad ws_ftp files and password files	
+1998.01.05	Sukura Japanes bank database broken into - customer data stolen	Fujisawa	
+1998.01.05	TX A&M homepage hacked	
+1998.01.07	UNICEF homepage hacked	
+1998.01.07	Philips Communication hacked	OptikLenz	
+1998.01.07	WV Network for Educational Telecomputing hacked	OptikLenz	
+1998.01.08	Bureau of Labor Statistics flooded with fake info requests; shut down	
+1998.01.08	MD Board of Education hacked; files and payroll altered	
+1998.01.09	www.webbnet.com hacked	Magica de Bin	
+1998.01.09	Gladsaxe Kommune, Denmark hacked	Magica de Bin	
+1998.01.09	noemie.informatics.sintef.no hacked	Virtus	
+1998.01.09	T/R systems hacked	Virtus	
+1998.01.09	www.d-lab.com.ar (Argentina) hacked	klan of dark afros	
+1998.01.10	Citizens Bank homepage hacked	getwork guerillas	
+1998.01.10	ValuJet homepage hacked	
+1998.01.10	Easy Softwae hacked	OptikLenz	
+1998.01.10	Mega-Bytes of Ohio hacked	OptikLenz	
+1998.01.10	Reviewonline hacked	OptikLenz	
+1998.01.10	Computer Tuto Training and Service hacked	OptikLenz	
+1998.01.10	Youngstown Electric Company hacked	OptikLenz	
+1998.01.11	ASI Net, Uruguay hacked	Magica de Bin	
+1998.01.11	Silicon Investor NT server brought down by bonk DoS	
+1998.01.12	www.bass.com.my in Malaysia hacked	
+1998.01.12	ASI Net, Uruguay hacked	Magica de Bin	
+1998.01.13	Boeing 401(k) temporary PIN numbers grabbed by hackers	
+1998.01.14	www.akam.tr (Turkey) hacked	uberhacker	
+1998.01.14	Berkeley Instructional Technology Program hacked	Magica de Bin	
+1998.01.14	WV Library Commission web site hacked	
+1998.01.15	www.emergent.com hacked	L.O.U.	
+1998.01.15 	military sites (.mil and some .gov) hacked - 200 servers	Makareli, TooShort	
+1998.01.16	Tallahassee Freenet hacked; shut down to protect it	
+1998.01.16	Iowa Community College hacked by Zyklon (Eric Burns)
+1998.01.16	SoftFair hacked	bash	
+1998.01.16	Global Technology Marketing spam site killed	
+1998.01.17	www.scala.se software company hacked	critic	
+1998.01.17	www.avd.nl hacked	critic	
+1998.01.17	www.thebuzz.com KTBZ FM radio web site hacked	
+1998.01.18	over a dozen Indonesia web sites hacked	LithiumError; ChiKo	
+1998.01.18	Industrial Dev Org of the UN hacked; unprotected Solaris box	
+1998.01.18	Branson school hacked	
+1998.01.18	Maine College hacked	Zyklon	
+1998.01.18	Community Oriented On Line Networks hacked	Mr 90	
+1998.01.18	www.kommanet.nl hacked	critic	
+1998.01.19	www.kalnet.com hacked; running Apache on linux box	
+1998.01.20	Commission of the European Communities web site hacked	Zyklon	
+1998.01.20	www.linkz.com web site hacked	
+1998.01.21	www.legislate.com hacked	Noid	
+1998.01.21	www.bash.com hacked	the hacker alliance	
+1998.01.22	www.kpc.lt hacked	DaBoo	
+1998.01.22	Oakland, CA Unified School District webpage hacked	tease	
+1998.01.24	www.kleiber.com hacked	GiftGas	
+1998.01.24	Program One, Inc hacked	SpiritWalker, Sn1per, GiftGas	
+1998.01.25	www.hartnet.org hacked	OptikLenz	
+1998.01.25	Colorado Legal Eagles hacked	pascal trio (zyklon)	
+1998.01.25	Univ of Seville server hacked	Zyklon	
+1998.01.25	Ume University, Sweden hacked	Toxic Edge	
+1998.01.26	www.homeguard.net hacked	
+1998.01.27	Walnut Ridge HS, Arkansas hacked	OptikCore	
+1998.01.27	Virginia Commonwealth University hacked	Zyklon	
+1998.01.27	Prairie View A&M Univ hacked	Zyklon	
+1998.01.28	Internet traffic re-routed through USC computers as a test	Postel, Jon	
+1998.01.28	www.datapark.net hacked	GiftGas	
+1998.01.29	www.hackchat.com hacked	Nation	
+1998.01.29	www.dragonserve.com hacked	T.H.E.	
+1998.01.29	www.resopal.nl hacked	SpiritWalker, Sn1per, SisterMoon	
+1998.01.29	www.connectos.com	SpiritWalker, Sn1per, SisterMoon	
+1998.01.30	Calagary Unix Users Group hacked	sreality and #pascal crew	
+1998.01.30	AllSeasons Travel hacked	Claire Danes	
+1998.01.31	www.webbnet.com hacked	xenon	
+1998.01.31	www.gpg.com hacked	xenon	
+1998.01.31	www.branson.org hacked	xenon	
+1998.02.01	www.netbank.net.tw hacked	
+1998.02.01	Langley AFB home page hacked	Noid Crew	
+1998.02.01	Kuwait University home page and domain hacked	
+1998.02.01	www.tamu-commerce.edu hacked	xenon	
+1998.02.02	www.pcconcepts.com hacked	zipoff, Hosser	
+1998.02.04	mexico finance ministry hacked	LoTek (High Tech Teens)	
+1998.02.04	www.ddd.fr hacked	
+1998.02.05	cccookies hacked	Kalony	
+1998.02.07	dynatek infoworld hacked	tech voodoo crew	
+1998.02.07	computer beratung direkt hacked	the Amish Ninjas	
+1998.02.07	presage internet hacked	JF Josh Freedaleman	
+1998.02.07	boimag in UK hacked	JF Josh Freedaleman	
+1998.02.08	Uniformed Services University of Health Science hacked	No|d Crew	
+1998.02.08	over 20 com sites hacked	brain candy	
+1998.02.08	thermocret site hacked	JF Josh Freedaleman	
+1998.02.08	nuvocom site hacked	No|d Crew	
+1998.02.08	tvweather hacked	tech voodoo crew	
+1998.02.08	danehio entertainment hacked	Lord Acid	
+1998.02.08	century die hacked	Lord Acid	
+1998.02.08 	over a dozen sites hacked	Bill Gates hackers	
+1998.02.09	SunSITE hacked in Hong Kong	Magica de Bin	
+1998.02.10	www.knesset.gov.il hacked	
+1998.02.11	www.odi.com.pl (Poland) hacked	TPSA team	
+1998.02.12	www.on-the-hook.com hacked	Noid/TechVoodoo	
+1998.02.12	www.conceptsvisual.com hacked (concepts visual)	Noid/TechVoodoo	
+1998.02.12	www.1792.com (arthur register) hacked	Noid/TechVoodoo	
+1998.02.14	www.gov.com hacked	LordSomer, The Hackers Layer	
+1998.02.16	www.vpac.org (virtual police) hacked	lunar.shake.org	
+1998.02.16	www.phpages.com hacked	Noid/TechVoodoo	
+1998.02.17	Alis Technologies hacked	Magica de Bin	
+1998.02.17	www.top50mp3.com hacked	Prizm	
+1998.02.18	Thermocresteusa hacked	JF Josh Freedaleman	
+1998.02.18	XHN Industries hacked	KaGe of Mising Link	
+1998.02.19	Intellus in Norway hacked	
+1998.02.19	Interpraesenz Online Service hacked	amish group	
+1998.02.19	Saatchi & Saatchi hacked (used shockeave)	trix and vertes	
+1998.02.19	maxout hacked	JF Josh Freedaleman	
+1998.02.20	Thomas More College hacked	Magica de Bin	
+1998.02.21	humblebums.com hacked	Noid/TechVoodoo	
+1998.02.21	Jacksonville U hacked	
+1998.02.22	One Life Crew hacked	
+1998.02.22	Huntingtimes.com hacked	cyberchrist	
+1998.02.22	allwrestling.com hacked	cyberchrist	
+1998.02.23	Systematic.com hacked	Claire Danes	
+1998.02.24	GeBeKo in Germany hacked	
+1998.02.24	16 sports, cars, toy stores hacked	Kalony	
+1998.02.24	webglass.com hacked	Claire Danes	
+1998.02.24	duesseldorf.com hacked	Claire Danes	
+1998.02.24	hellas-on-business (Greece) hacked	Claire Danes
+1998.02.25      MIT Plasma & Fusion Center (PSFC) and DoD computers hacked by Analyzer (Ehud Tenenbaum)	
+1998.02.26      Solar Sunrise - DoD hacks (7 AF sites, 2 navy sites)
+1998.02.27	Napier University, Edinburgh, UK hacked	Magica de Bin	
+1998.02.27	Hypermall (athena.hypermall.com) hacked	The Noid / TechVoodoo	
+1998.02.27	BEBEnterprises (www.localafffairs.com) hacked	The Noid / TechVoodoo	
+1998.03.01	Sprint International Global One hacked	Simon	
+1998.03.02	Persatuan Hackers Indonesia hacked	 	
+1998.03.03	NetDex ISP hacked	by The Analyzer and The Enforcers (Tennenbaum)
+1998.03.03	Izmir College, Turkey hacked	Painfall for Ravena	
+1998.03.03	U of Bordeaux hacked	Magica de Bin	
+1998.03.04	At least 25 universities hacked (exploiting Windows 95 and NT)	
+1998.03.04	Yuzuncu Yil U hacked	
+1998.03.05	Cybermall hacked	
+1998.03.05	Nambla.org hacked	74074	
+1998.03.06	PBS server hacked	Zyklon	
+1998.03.07	Jerusalem Post hacked	
+1998.03.08	Brookhaven National Lab hacked	Toxic 'n Xnec	
+1998.03.08	Rainbow Casino hacked	seal	
+1998.03.08	US Army 7th Brigade hacked	Noid	
+1998.03.08	US Army Air Defense Artillery School at Ft Bliss hacked	Noid	
+1998.03.08	US Army executive s/w systems directorate hacked	Noid	
+1998.03.08	Patricia Seybold Group hacked	Noid	
+1998.03.09	Naval Space Command hacked	The Noid / TechVoodoo	
+1998.03.09	Keystone Central School District hacked	Zyklon	
+1998.03.09	Cheesi s/w hacked	
+1998.03.10	K12 domain hacked	
+1998.03.10	NASA Ames (zeus.arc.nasa.gov) hacked	Magica de Bin	
+1998.03.10	Learninglink.org hacked	
+1998.03.15	Stockton Community Wide Web hacked	
+1998.03.17	University of Minnesota hacked
+1998.03.18      Ehud Tenenbaum arrested for hacking (The Analyzer)	
+1998.03.30	T-Online (German telephone company) hacked	
+1998.04.09	Stanford reloaded files from corrupt backup tape, destroying faculty files	
+1998.04.17      NASA computers at JPL broken into and rootkit added (Raymond Torricelli)
+1998.04.22	DISN (DISA) hacked; DEM hacked which controls GPS	Masters of Download (MoD)	
+1998.00.00      Presidential Decision Directive 63 signed; protect nation's critical infrastructure
+1998.05.00      Max Vision (Max Butler), the Equalizer released backdoor to military computers
+1998.05.30	AOL social engineered to grant access into the ACLU web site	
+1998.06.15	Indian nuclear research center servers hacked	MilW0rm	
+1998.06.23	new Word macro virus - WM/Poly-Poster	
+1998.06.30	US Coast Guard personnel database wiped out by disgruntled employee	Singla, S	
+1998.07.00      Meganet in CA sees massive attacks against them; tracked back to Russia Academy of Sciences
+1998.07.05	300 web sites hacked	Milw0rm and Ashtray Luberjacks	
+1998.07.10	ProHost hacked	Milw0rm	
+1998.07.15	Time Warner Systems hacked	LoU	
+1998.07.17	Back Orfice introduced	Cult of Dead Cow (cDc)	
+1998.08.00      Navy sees more intrusions in Pac Fleet and Pacific Command
+1998.08.01	45 Indonesian sites hacked	KaotiK Team	
+1998.08.15	180,000 passwords stolen; 48,000 cracked by Jack the Ripper program	
+1998.08.23	Paramount web site hacked	Zyklon (Seattle - LoU)	
+1998.08.24	Internet Alaska hacked;  attacked by the smurf attack	
+1998.08.30	Australian government's web site hacked	
+1998.09.13	NY Times hacked	HFG (Hacking for Girlies)	
+1998.09.17	2,585 US West computers hacked to find prime number	Blosser, Aaron	
+1998.09.19	hackers sabatoge web site of Sweden's main opposition pary	
+1998.09.20	hackers from 15 locations attacking Navy web sites (SHADOW sees trends at SPAWAR)
+1998.09.23	internet auction sites have had their credit cards, info, exposed	
+1998.10.01	www.slashdot.org hacked	
+1998.10.01	24,000 domains hacked; hosted by japan.co.jp	Legions OfThe Underground	
+1998.01.01	300 domains hacked	Ashtray Lumberjacks	
+1998.10.07	478 domains hacked	Cha0s	
+1998.10.13	4 men installed chips in gas pumps to cheat consumers	
+1998.10.13	DoD attacks hacker group with information warfare techniques	Electronic Disruption Theater	
+1998.10.15	hackers invade India army site about Kashmir	
+1998.10.27	China's Human Rights site Hacked	bronc (LoU)	
+1998.10.28	Rootshell hacked thru ssh-1.2.26	
+1998.11.00	Cloverdale Two sentenced to 3 years probation	
+1998.11.06	hacker convicted of hacking into U of Iowa and U of Wisconsin	Mitra, Rajib	
+1998.11.15      Varna Hacking Group cracks home page for the Cartoon Network cable channel
+1999.02.01	Canadian team charged in Smurf attack; attacked Sympatico ISP	
+1999.02.16	id Software website defaced (Doom and Quake) using uploader.exe	mEsachicken	
+1999.02.19	COMDEX Website Defaced	E-pROM	
+1999.02.01	www.conservative.org hacked	Diablo	
+1999.01.13	Censure and Move On site hacked	
+1999.02.15	15 year old from Vienna hacks into Clemson U	
+1999.02.23	Dutch site, www.vaart.nl, hacked
+1999.03.00      Moonlight Maze Russian Academy of Sciences hacking attacks against DoD	
+1999.03.03	Monicalewinsky.com site hacked	MagicFX	
+1999.03.15	Navy's Medical Information Mgt Center in Bethesda hacked	Russian supporters of Serbia	
+1999.03.24	NATO web site in Brussels knocked down	Serb hackers	
+1999.03.29	Melissa macro virus affects 100,000 email users;	written by David Smith
+1999.04.04 	Canadian hackers attack 13 major corporate sites	Yorkshire Posse	
+1999.04.15      I. Iffih hacks into ZMOS, Washington State and into NASA and DDLA
+1999.04.20	Patuxent River Naval Air Station spammed with "Serbia is here" email	Belgrade hacker	
+1999.04.21	hacker broke into Washington National Airport air traffic control frequency	
+1999.04.23	hacker breaks into U of Washington web site	gh (global hell)	
+1999.04.26	Chernobyl CIH virus
+1999.05.01      Dutch hackers (Dutchthreat) hack Yugoslav web server
+1999.05.05      hacker steals Hotmail passwords
+1999.05.07      Hackers targeting US sites (DOE, Dept of Interior) in protest of Chinese embassy bombing in Belgrade	
+1999.05.11      Hack against White House web site (www.whitehouse.gov) by global hell
+1999.05.26      Hack against FBI web site
+1999.05.27      Hack against US Senate web site
+1996.06.01      Interior Department hit by hackers
+1999.06.11      hack against US Senate web site again (Varna Hacking Group)
+1999.07.07      Back Orifice 2000 released
+1999.08.30      ABC news broken in by  "The United Loan Gunman"
+1999.09.06      C-Span (Cable-Satellite Public Affairs Network) broken in by "The United Loan Gunman"
+1999.09.07      Level Seven Crew hack US Embassy in China
+1999.09.07      Scottish Executive Website hacked by Scotland hackers
+1999.09.08      KKK site hacked
+1999.09.09      International Association for Counterterrorism & Security Professionals hacked by bowlerz
+1999.09.09      AOL ICQ passwords stolen with trojan horse disguised as jpeg file
+1999.09.13      Drudge Report broken in by "The United Loan Gunman"
+1999.09.13      South Africa's official statistics website hacked
+1999.09.15      Nasdaq and American Stock Exchange broken in by "The United Loan Gunman"
+1999.09.19      NAACP broken in by "The United Loan Gunman"
+1999.09.22      Rogers University hacked by bl0w team
+1999.09.23      Ranger Power hacked by LevelSeven
+1999.09.30      Ontario Ministry of Northern Development and Mines hacked by Sarin
+2000.01.10      CD Universe hacked by Maxus; 350,000 credit cards stolen; $100K ransom demanded; numbers posted on Web
+2000.01.15      Curador steals over 23,000 credit card numbers from 8 small companies
+2000.01.17      Library of Congress web site defaced by LmT; users prevented from accessing congressional legislation
+2000.02.07      Yahoo, eBay, Amazon, Buy.com, CNN hit with a distributed DDoS; done my MafiaBoy
+2000.02.09      ZDNet and e*trade hit with a DDoS; done my MafiaBoy of Canada
+2000.02.15      Ray Torricelli hacks into JPL computers; stole credit card numbers and passwords
+2000.03.12      Crime Boys from Brazil hack Interior Deptl Army ROTC, JPL
+2000.03.15      Raphael Gray arrested for stealing crdit card information; used Gates credit details
+2000.03.28      hacker puts sniffer program between AMC at Scott AFB and DOT in MA
+2000.05.00      GAO auditors gain access to many DoD sensitive sites
+2000.05.15      Love Bug virus sent from Philippines; AMA computer college
+2000.06.01      Qualcomm in San Diego hacked by U of Wisconsin student
+2000.06.04      Internet.com hijacked
+2000.06.15      hacker cracks into Redhotant and steals 24,000 credit card numbers in Kent
+2000.06.18      AOL cracked with trojan horse program; 500 subscribers had information stolen
+2000.06.20      life stages virus
+2000.06.21      Nike site hacked by S-11 group
+2000.07.07      Powergen in UK cracked; credit card numbers stolen
+2000.08.15      Bret McDanel (Secret Squirrel) spams his company's (Tornado) computer in Del Mar, CA; charged with spamming
+2000.09.15      Western Union hacked; 15,700 credit cards exposed
+2000.09.26      Jason Diekman (Shadow Knight, Dark Lord) arrested; hacked JPL, Stanford, Harvard
+2000.10.00      Microsoft hacked by St Petersburg hacker
+2000.11.10      FBI lure 2 Russians to Seattle, monitor connections, hack into russian servers; 1st known government hack
+2000.11.15      Travelocity - (Account information for up to 51,000 exposed) [archive] 
+2000.11.15      Contour Software - (Over 700 loan applications and Social Security numbers divulged)
+2000.12.13      55,000 credit card numbers stolen from Creditcards.com; hacker tried to extort the company; numbers exposed on the Web
+2000.12.15      Egghead.com hacked; they have 3.7 million customers; banks issued new credit cards
+2000.12.24      hackers steal source code for OS/COMET by Exigent from US Naval Research Lab
+2001.01.15      Indianu U School of Music hacked; stolen Social Security numbers, etc
+2001.01.18      Mafiaboy pleads guilty to hacker charges in Montreal
+2001.01.22      hacks against CA Republican caucus and Alaska Dept of Interior; US, UK, Australia
+2001.01.24      misconfigured router cuts off some Microsoft sites
+2001.01.26      hackers attack official Vatican radio website
+2001.02.01      hacker steals data from the World Economic Forum, including credit cards
+2001.02.12      Anna Kournikova virus released by OnTheFly (20 year old Dutchman)
+2001.02.23      Ikenna Iffih charged for hacking NASA, DoD
+2001.03.01      40 e-commerce sites in 20 states hacked by Russian groups; million credit card numbers stolen
+2001.03.05      Amazon/Bibliofind.com - (98,000 customer records compromised) 
+2001.03.15      Updated version of backdoor program SubSeven (ver 2.2) released
+2001.03.20      AtomicPark.com - (500 customers notified about breach)
+2001.04.02      ADDR.com - (46,000 accounts possibly compromised)
+2001.04.11      Consumer Product Safety Commision hacked by COBR4S
+2001.04.12      Chinese hackers attack US web sites over spy plane issue; hack Navy Acquisition system
+2001.04.17      Accubyte - (Personal information exposed through shopping cart software)
+2001.05.04      Gibson Research Corp hacked by 13 year old (wicked)
+2001.05.07  	Diablo2 game site hacked
+2001.05.11      Solaris/IIS worm
+2001.05.15      hackers attack U of Washington and put file sharing program on its computers
+2001.05.17      Fluffy bunny hacks Apache.org and SourceForge linux site
+2001.05.24      Indiana U hacked with the rpc.statd buffer
+2001.05.25      Whitehouse.gov hacked, causing denial of service (May 4 repeat)
+2001.06.13      "security" domain sites hacked
+2001.06.13      European Union "Safer Internet" site hacked
+2001.06.14      California Independent System Operators power grid hacked
+2001.06.15      ex US Senator's wife sent email nastygrams using hotmail; gets caught
+2001.06.20      Zixit credit card database accessed
+2001.07.19      Code Red/SirCam
+2001.07.23      Dmitry Sklyarov arrested at DefCon for creating program to copy Adobe electronic books
+2001.07.15      Ecount gift certificate service hacked by Zilterio; demanded $45,000 to protect 350,000 customers
+2001.08.21      Washington-based Riggs bank Visa customer database hacked into
+2001.09.18      Nimda worm ?
+2001.10.10      Vasily Gorshkov convicted of 20 counts of fraud and computer crimes; he stole credit card numbers; defrauded PayPal
+2001.11.15      insecure satellite link not encrypted allowed for spy satellite images
+2001.11.19      156 web sites hosted by Vietnam hacked by revengetheplanet
+2001.11.20      playboy.com hacked by Ingreslock; credit card numbers grabbed
+2001.11.20      25 church web sites hacked by Hacking for Satan
+2001.11.24      Qualcomm hacked by someone at U of Wisconsin
+2001.11.25      BadTrans worm
+2001.11.27      2 former Cisco accountants sentenced to 34 months for breaking into company computers and stealing stock
+2001.12.04      Goner worm
+2001.12.07      4 Israeli college students arrested for creating Goner
+2001.12.10      GAO site hacked by Anti India Crew (Alqaeda Muslim Alliance)
+2001.12.19      Zacker (Maldal) worm
+2002.UNK       2002 Judge Sam Sparks released Lamprecht from his term of supervised release, effectively lifting his Internet ban as well
+2002.02.15      Lamo hacks New York Times
+2002.03.03      Team Teso Creates the First remote vulnerability in OpenBSD followed by a series of remote exploits against OpenBSD (some co-authored with ADM). Forced OpenBSD to remove the claim from the OpenBSD webpage "7 years without vulnerability"
+2002.03.10      Georgia Tech hacked; financial records and credit cards exposed
+2002.03.25      BT Publishes Private Remote Access Numbers On Internet
+2002.03.27      Microsoft - (Personal information of thousands of applicants revealed) [archive] 
+2002.03.29      U.S. Government - (Allowed remote Internet users to browse documents ranging from correspondence to online order data)
+2002.04.15      Klez virus; 800,000 copies
+2002.04.22      Deceptive Duo hacks into US Navy web site
+2002.04.23      Deceptive Duo hacks into NASA and DOT web site
+2002.04.24      Deceptive Duo hacks the FAA
+2002.04.29      Deceptive Duo hacks into Colorado airport web site
+2002.04.30      Indiana State University accidently posts personal info on 10,000 students on the Web
+2002.05.01      holes discovered in Best Buy and Home Depot wireless LANs
+2002.05.10      California State Controller computer hacked; 265,000 names exposed
+2002.05.24      Kim Schmitz (kimble hacker (YIHAT)) convicted of insider trading of LetsBuyIt
+2002.05.28      TheNerds.Net online electronics store hacked by Zilterio; 100,000 customers
+2003.01.25      Slammer (Sapphire) worm; fastest worm in history; affected Microsoft SQL servers; 100,000 hosts
+2003.06.04      Bugbear worm; tries to steal passwords and credit card information
+2003.07.15      JuJu Jiang arrested for putting a keystroke logger on a New York Kinko's computer.
+2003.07.30      DCOM/RPC exploit detected
+2003.08.07      Acxion hacked, customer information exposed; hacked by Daniel Baas of Ohio
+2003.08.11      Blaster worm; uses the dcom rpc exploit
+2003.08.18      Sobig.F worm; $50 million in damages; source of program was porn site
+2003.08.18      Nachi (Welchia) worm; tries to remove Blaster worm and put on patch
+2003.08.30      MiMail email worm
+2003.09.05      Dan Diobanu of Romania arrested for Blaster-F worm
+2003.09.09      Adrian Lamo surrenders to federal authorities for hacking New York Times
+2003.09.18      Swen (Gibe) worm; looks like a Microsoft advisory
+2003.09.20      anti-spam sites hacked by spammers
+2003.09.24      1,000 car shoppers' credit details exposed in bulk on Dealerskins
+2003.09.26      Jeffrey Parson arrested for writing blaster worm variant
+2003.09.29      Brett O'Keefe, CEO of ForensicTec Solutions, arrested for hacking into military and government computers
+2003.10.01      QHosts Trojan Horse; alters DNS settings
+2003.10.09      Van Dinh arrested for cyber stock scam
+2003.10.25      Three Michigan men get into Lowe's wireless computer system and steal credit card information
+2003.11.05      Brazilian police arrest 18 Internet hackers
+2003.11.15      iTunes DRM cracked by Jon Lech Johansen
+2003.12.18      Daniel Baas age 25 pleaded guilty to breaking into Acxiom 
+2003.12.22      Lech Johansen acquitted of hacking into DVD security codes
+2004.01.08      U.S. Treasury Department - (10,000 email addresses to be exposed)
+2004.01.14      Airlines Reporting Corp. -  (Several major airlines lose customer information)
+2004.01.26      Mydoom (Novarg) virus released
+2004.01.29      University of Georgia - (Social Security numbers and credit card numbers of 20,000 possibly accessed) 
+2004.02.14      California Employment Development Department - (Information on 90,000 people exposed)
+2004.03.15      T-Mobile USA internal systems hacked, including Paris Hilton;s cell phone data
+2004.03.17      San Diego State University - (178,000 people possibly affected) 
+2004.04.15      computers at Patuxent River NAS, White Sands Missile Range, and JPL hacked by Stakkato
+2004.04.16      Fleet Credit Card Services - (New cards to an unspecified number of customers... a security breach at an unnamed merchant)
+2004.04.29      Illinois Secretary of State - (Up to 200,000 license plate records found)
+2004.04.29      The University of California (UCLA) - (Names, birth dates, Social Security numbers of 145,000 on stolen laptop) 
+2004.04.29      Sasser worm (netsky) released by Sven Jaschan in Germany
+2004.05.15      portion of Cisco's IOS code illegally copied and posted on the Internet; done by Swedish teenager
+2004.06.24      America Online - (92 million email addresses for 30 million subscribers sold to spammers) 
+2004.07.22	Scott Levine age 46 gets 8 years prison for boosting over 1 billion records from a warehouse. (Acxiom corp.)
+2004.08.03      Cal State San Marcos - (Names and Social Security numbers for 23,000 on stolen laptop) 
+2004.09.15      Hacker accessed UC Berkeley research being done for Dept of Social Services; info on 600,000 people exposed
+2004.09.16      Teledata Communications Inc. - NEW YORK - A computer technician who prosecutors said made possible the largest identity theft in U.S. history, surpassing $50 million, pleaded guilty - Philip Cummings age 35
+2004.09.23      Cal State Hayward - ( A computer hacker somehow gained access to over 2,000 Cal State Hayward students earlier this month, prompting campus officials to send out letters warning students that their personal information may have been compromised.)
+2004.11.17      Petco - The U.S. Federal Trade Commission has reached a settlement with pet food retailer Petco Animal Supplies of charges that the company's Web site violated federal law by making deceptive security claims.  A security flaw in Petco's Web site left customers' credit card numbers exposed to attackers.
+2004.11.25      Russian hackers have broken in to the tax authorities database and released the information on a CD. Now Russians can pay just over $30 to get access to information about income, address, business, telephone and the financial history of just about anyone in the Moscow region.
+2004.10.15      University of Texas student hacked into the school and stole info on 37,000 students and employees
+2004.11.15      University of Georgia school computer hacked, which may have exposed 32,000 student credit card numbers
+2004.11.25      A Waco-based student loan company has warned thousands of borrowers across the country that their names, Social Security numbers and other personal information might have fallen into the wrong hands. (100,000 put at risk)
+2004.12.14      Michigan man sentenced to 9 years for hacking into Lowe's hardware stores in 2003
+2004.12.21      Delta Blood Bank sent a letter Friday to donors, warning them a computer that held their personal information had been stolen and advising them to take steps against identity theft and credit card fraud. 
+2004.12.15      Zafi Merry Christmas worm released
+2004.12.31      Daniel Cuthbert releases the Tsunami donation hack
+2005.01.10      The names, photos and Social Security numbers of more than 32,000 students and staff at George Mason University in Fairfax, Va., have been compromised as the result of a hacker attack against the university's main ID server.
+2005.01.15      Windows Media DRM 10 cracked
+2005.01.18      A hacker breached the security of two University of California San Diego computers that stored the Social Security numbers and names of about 3,500 students and alumni of UCSD Extension. 
+2005.02.12      (Break-In At SAIC Risks ID Theft)Some of the nation's most influential former military and intelligence officials informed that they are at risk of identity theft after a break-in at a major government contractor netted computers containing the Social Security numbers and other personal information about tens of thousands of past and present company employees. 
+2005.02.16      LOS ANGELES hacker who broke into the network of T-Mobile USA and accessed personal information of hundreds of customers including a Secret Service agent has pleaded guilty to a single felony hacking charge. (Nicholas Lee Jacobsen 21)
+2005.02.26      Computer tapes containing credit-card records of U.S. Senators and more than a million U.S. government employees are missing, Bank of America. (Stolen)
+2005.02.26      A report gets released stating that information on Web sites of state agencies and authorities has been hacked at least 72 times in six years. 
+2005.03.01      Payroll firm pulls Web services, citing data leak
+2005.03.04      Harvard, MIT, and Stanford business schools admissions hacked
+2005.03.11      A computer taken during the break-in contained 8900 names, ages, dates of birth, Social Security numbers, photographs and signatures of southern Nevada residents who obtained driver's licenses betweenthe previous November 25 to the previous March 4.
+2005.03.11      ChoicePoint accidently leaks information on more than 145,000 U.S citizens 
+2005.03.11      140 Kaiser patients' private data gets pointed out online, including medical records, names, addresses.
+2005.03.11      98,369 people put at risk from the University of California, Berkeley, alumni, graduate students and past applicants.
+2005.03.17      Boston College has sent warning letters to 120,000 of its alumni, after a computer containing their addresses and Social Security numbers was hacked by an unknown intruder. 
+2005.03.19      A hacker invaded a UNLV server containing thousands of records with foreign students' information, UNLV officials.
+2005.03.20      California State University at Chico hacked; 59,000 accounts on server. The server hackers targeted held the names and Social Security numbers of current, former and prospective students. 
+2005.06.02      South Korea MSN hacked and password-stealing software planted on it
+2005.06.15      Announcement made than a hacker may ave accessed 40 million credit card numbers from CardSystems Solutions, Inc
+2005.06.20      University of Southern California online application system hacked
+2005.08.25      FBI Starts to investigate the possibility of Chinese hackers may be hacking into US government computers
+2005.09.14      Teenager sentenced 11 months for the T-Mobile and Paris Hilton cell phone hack
+2005.09.15      Hacker accessed UC Berkeley research being done for Dept of Social Services; info on 600,000 people exposed
+2005.09.19      University of Georgia hacked; info on 1,600 employees, incuding Social Security numbers, accessed
+2005.10.05      Daniel Cuthbert convicted of breaking the Computer Misuse Act from releasing the Tsunami donation hack
+2005.10.12      Microsoft Windows Genuide Advantage antipiracy system cracked
+2006.03.25	World of Warcraft suffers a DDOS attack. - PR for Blizzard Entertainment deny the attack however dynamically updating charts of web preformance contradict the official statement ---
+2006.08.19      FairUse4WM released to remove Windows Media DRM 10 and 11 (PlaysForSure) protection; written by Viodentia
+2006.11.18      State databases with confidential information from registered voters and driver's licenses in Michigan were not adequately secure and were annoucned vulnerable to computer hackers,
+2006.12.01      TiVoToGo DRM cracked
+2006.12.20	On December 20th, the City of Heroes game servers were nearly all hacked by an undisclosed method. According to NCSoft representative CuppaJo, "Customer data and its security was not compromised in any way during the incident that occurred," and no additional information beyond this was publicly disclosed. As of July 2006, this is the first known hack of any MMO, of which there are millions of subscribers across numerous games.
+2006.12.26      muxlix64 cracks the Advanced Access Content system (AACS) DRM for HD-DVD and Blu-Ray; releases BackupHDDVD
+2007.01.15      Alex Ionescu cracks Vista DRM
+2007.06.15      1.3fix-2 released to crack MS DRM blackbox components (IBX), interfacing with Vista and Zune
+2007.07.14      Zune DRM Stripper released
+2007.08.15      Vertical Web Media hacked; credit card info stolen
+2007.09.15      Hackers (MediaDefender-Defenders) leak MediaDefender emails
+2007.09.17      Layered Technologies cracked through the Cerberus Helpdesk application
+2007.09.20  	Hacker breaks into email system for Defense Secretary Robert Gates's office
+2007.12.15 	Spyware programs discovered on US trade delegation computers to China
+2007.12.20 	Calgary financia company (Direct Cash Management) hacked by the Analyzer (Ehud Tenenbaum)
+2008.05.28 	Hackers divert Comcast traffic
+2008.09.11 	Hackers deface Large Hadron Collider web site
+2008.09.16 	Rubico (David Kernell?) cracks into Gov Sarah Palin's Yahoo email account
+2008.09.18 	Hacker compromises data on 11,000 students at U of Indianapolis
+2008.09.18 	O'Reilly web site hacked after comments about Palin hack
